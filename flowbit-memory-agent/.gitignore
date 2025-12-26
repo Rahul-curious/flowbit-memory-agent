@@ -1,0 +1,5 @@
+# SQLite database
+memory.db
+
+# Node
+node_modules
